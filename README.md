@@ -1,7 +1,9 @@
 # Utilities Consumption Study
 ### Sidclay da Silva
 ### July 2020
+
 ---
+
 This repository contains a study which comprehends analysis of self water and electricity consumption, and the relation between consumption and the variation of local temperature and relative humidity.
 
 Repository content list (not yet finished):
@@ -16,4 +18,6 @@ Repository content list (not yet finished):
 
 * __Data_Source__ brach
 
-    Contains CSV files with water and electricity consumption collected from utilities bills.
+    _CSV_ files with water and electricity consumption collected from utilities bills.
+    
+    _Feather_ files generated from exported Pandas dataframes
