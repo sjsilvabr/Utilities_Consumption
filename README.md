@@ -20,8 +20,18 @@ Repository content list (not yet finished):
 
     Jupyter notebook with Python code and some comments for data reading, cleaning and initial analysis on water consumption.
 
+* __Weather_Notebook.ipynb__
+
+    Jupyter notebook with Python code and some comments for data reading, cleaning and initial analysis on temperature and relative humidity.
+
+
+
 * __Data_source__ brach
 
-    _CSV_ files with water and electricity consumption collected from utilities bills.
+    _CSV_ file with electricity consumption collected by the author from utilities bills.
+
+    _CSV_ files with meteorological data collected by the *INMET* from its automatic station *A518*.
     
-    _Feather_ files generated from exported Pandas dataframes
+    _CSV_ file with water consumption collected the author from utilities bills.
+
+    _Feather_ files generated from exported Pandas dataframes.
