@@ -24,8 +24,6 @@ Repository content list (not yet finished):
 
     Jupyter notebook with Python code and some comments for data reading, cleaning and initial analysis on temperature and relative humidity.
 
-
-
 * __Data_source__ brach
 
     _CSV_ file with electricity consumption collected by the author from utilities bills.
@@ -35,3 +33,7 @@ Repository content list (not yet finished):
     _CSV_ file with water consumption collected the author from utilities bills.
 
     _Feather_ files generated from exported Pandas dataframes.
+
+* __Images__ branch
+
+    Images saved to from Notebooks to be used in report.
