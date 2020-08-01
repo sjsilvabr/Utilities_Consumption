@@ -8,23 +8,27 @@ This repository contains a study which includes analysis of self water and elect
 
 Repository content list (not yet finished):
 
-* __README.md__
+* **README.md**
 
     This document
 
-* __Electricity_Notebook.ipynb__
+* **Correlation_Notebook.ipynb**
+
+    Jupyter notebook with Python code and some comments for features correlation analysis.
+
+* **Electricity_Notebook.ipynb**
 
     Jupyter notebook with Python code and some comments for data reading, cleaning and initial analysis on electricity consumption.
 
-* __Water_Notebook.ipynb__
+* **Water_Notebook.ipynb**
 
     Jupyter notebook with Python code and some comments for data reading, cleaning and initial analysis on water consumption.
 
-* __Weather_Notebook.ipynb__
+* **Weather_Notebook.ipynb**
 
     Jupyter notebook with Python code and some comments for data reading, cleaning and initial analysis on temperature and relative humidity.
 
-* __Data_source__ brach
+* **Data_source** brach
 
     _CSV_ file with electricity consumption collected by the author from utilities bills.
 
@@ -34,6 +38,6 @@ Repository content list (not yet finished):
 
     _Feather_ files generated from exported Pandas dataframes.
 
-* __Images__ branch
+* **Images** branch
 
-    Images saved to from Notebooks to be used in report.
+    Images saved to from notebooks results to be used in report.
