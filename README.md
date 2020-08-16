@@ -6,11 +6,15 @@
 
 This repository contains a study which includes analysis of self water and electricity consumption, and the relation between consumption and the variation of local temperature and relative humidity.
 
-Repository content list (not yet finished):
+Repository content list:
 
 * **README.md**
 
     This document
+
+* **Analysis_Report.pdf**
+
+    Detailed report with analysis on findings from the notebooks.
 
 * **Correlation_Notebook.ipynb**
 
