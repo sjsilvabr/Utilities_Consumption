@@ -14,7 +14,7 @@ Repository content list:
 
 * **Analysis_Report.pdf**
 
-    Detailed report with analysis on findings from the notebooks.
+    Detailed report with analysis on findings from the notebooks. Text in Brazilian Portuguese and English.
 
 * **Correlation_Notebook.ipynb**
 
